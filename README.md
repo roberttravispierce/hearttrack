@@ -1,4 +1,4 @@
-# HeartTrack
+# &#x1F499; HeartTrack
 This is a Team Project for [Pelable October 2019 Batch](https://pelable.com/chat/bnfKVoWGHwcj) using Ruby on Rails.
 
 > Note: All the contents of this project repository are publicly viewable. Do not add personal information or credentials to the repository
